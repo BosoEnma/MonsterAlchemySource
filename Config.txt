@@ -1,0 +1,7 @@
+#Fps(Line2)
+60
+#Name of the Game(Line4)
+Monster Alchemy
+#Resolution(Line 6 is the x and Line 7 is the y)
+1280
+720
